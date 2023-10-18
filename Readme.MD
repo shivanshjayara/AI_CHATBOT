@@ -40,6 +40,7 @@ Details of Generative AI Chatbot Using LangChain and LLM Model:
 5. **Training and Data:**
    - Train the LLM model on a diverse dataset, including dialogues, to enable it to handle a wide range of conversations.
    - Curate domain-specific datasets and fine-tune the model to excel in specialized areas.
+   - Here the domain is Healthcare
 
 6. **Evaluation and Metrics:**
    - Establish evaluation metrics, including accuracy, fluency, context coherence, and user satisfaction.
