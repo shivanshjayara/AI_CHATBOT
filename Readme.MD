@@ -47,4 +47,4 @@ Details of Generative AI Chatbot Using LangChain and LLM Model:
    - Continuously monitor and improve the chatbot's performance using user feedback.
 
 7. **API:**
-   - Flask framework used for building the api and teste in postman.
+   - Flask framework used for building the api and test in postman.
