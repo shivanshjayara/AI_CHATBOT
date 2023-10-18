@@ -1,4 +1,4 @@
-##Problem Statement:
+## Problem Statement:
 
 The problem is to develop a generative AI chatbot that leverages LangChain technology, incorporating the LLM (Large Language Model) to create a conversational agent capable of engaging in natural, contextually relevant, and coherent conversations with users. This chat bot is capable of providing you the best response related to your healthy life style. The goal is to provide an intelligent chatbot solution that can understand user queries, generate human-like responses, and adapt to different conversational styles, languages, and specialized domains.
 
